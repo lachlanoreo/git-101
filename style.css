@@ -1,0 +1,19 @@
+h1 {
+	font-weight: lighter;
+	font-family: tahoma;
+}
+
+.diamond {
+	height: 80px;
+	display: flex;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+
+
